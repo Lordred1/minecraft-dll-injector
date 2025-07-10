@@ -6,5 +6,4 @@ public:
 	Frame(const wxString& title);
 private:
 	void OnButtonClick(wxCommandEvent& evt);
-	wxDECLARE_EVENT_TABLE();
 };
